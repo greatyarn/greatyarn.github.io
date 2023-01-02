@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://greatyarn.github.io/sitemap.xml
