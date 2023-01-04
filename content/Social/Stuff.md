@@ -1,7 +1,7 @@
 ---
-title: "Stuff"
+title: "Socials"
 date: 2023-01-02T14:09:24Z
 draft: false
 ---
 
-Nothing to see here
+- Will be added
