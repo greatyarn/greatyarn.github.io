@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -106,16 +106,24 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: Social Links
+      name: Social
+      url: /social/Stuff
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+
+    - identifier: PortFolio
+      name: Portfolio
+      url: /portfolio/Stuff
       weight: 20
+
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
