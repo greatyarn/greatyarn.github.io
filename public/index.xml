@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>great_yarn</title>
+    <link>https://gregorykua.com/</link>
+    <description>Recent content on great_yarn</description>
+    <image>
+      <url>https://gregorykua.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://gregorykua.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 14:09:24 +0000</lastBuildDate><atom:link href="https://gregorykua.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>https://gregorykua.com/portfolio/stuff/</link>
+      <pubDate>Mon, 02 Jan 2023 14:09:24 +0000</pubDate>
+      
+      <guid>https://gregorykua.com/portfolio/stuff/</guid>
+      <description> Will be Updated  </description>
+    </item>
+    
+    <item>
+      <title>Socials</title>
+      <link>https://gregorykua.com/social/stuff/</link>
+      <pubDate>Mon, 02 Jan 2023 14:09:24 +0000</pubDate>
+      
+      <guid>https://gregorykua.com/social/stuff/</guid>
+      <description> Will be added  </description>
+    </item>
+    
+    <item>
+      <title>Contabo</title>
+      <link>https://gregorykua.com/posts/second-post/</link>
+      <pubDate>Mon, 02 Jan 2023 14:07:28 +0000</pubDate>
+      
+      <guid>https://gregorykua.com/posts/second-post/</guid>
+      <description> Will List what has been done  </description>
+    </item>
+    
+    <item>
+      <title>Site Creation</title>
+      <link>https://gregorykua.com/posts/my-first-post/</link>
+      <pubDate>Mon, 02 Jan 2023 13:02:13 +0000</pubDate>
+      
+      <guid>https://gregorykua.com/posts/my-first-post/</guid>
+      <description>The Site&amp;rsquo;s Creation  To be announced  </description>
+    </item>
+    
+    
   </channel>
 </rss>

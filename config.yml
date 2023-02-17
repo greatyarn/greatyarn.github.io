@@ -1,4 +1,4 @@
-baseURL: "https://gregorykua.coms"
+baseURL: "https://193.46.243.48:1313"
 title: great_yarn
 paginate: 5
 theme: PaperMod
@@ -92,7 +92,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/greatyarn/greatyarn.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
